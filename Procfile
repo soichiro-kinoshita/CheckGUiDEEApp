@@ -1,1 +1,1 @@
-web: python check1on1.py
+web: python checkGUiDEE.py
