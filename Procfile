@@ -1,1 +1,1 @@
-web: python checkGUiDEE.py
+web: gunicorn hello:app --log-file -
